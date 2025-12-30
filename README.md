@@ -134,6 +134,91 @@ total = reduce(lambda x, y: x + y, nums)
 
 <hr>
 
+<h2>📘 Python Advanced Topics</h2>
+
+<h3>🔹 Comprehensions</h3>
+<p>
+Comprehensions provide a concise way to create collections like lists and dictionaries.
+They make the code more readable and efficient.
+</p>
+
+<h4>• List Comprehensions</h4>
+<p>
+List comprehensions are used to create new lists from existing iterables in a single line.
+They can include conditions and expressions.
+</p>
+
+<h4>• Dictionary Comprehensions</h4>
+<p>
+Dictionary comprehensions allow creating dictionaries dynamically using key-value pairs
+derived from iterables.
+</p>
+
+<hr>
+
+<h3>📂 File Handling</h3>
+<p>
+File handling in Python is used to create, read, write, and append data to files.
+Python provides built-in functions to handle files easily.
+</p>
+
+<h4>• Write Mode (<code>w</code>)</h4>
+<p>
+Opens a file for writing. If the file exists, it overwrites the content.
+If the file does not exist, it creates a new file.
+</p>
+
+<h4>• Read Mode (<code>r</code>)</h4>
+<p>
+Opens a file for reading. This is the default mode.
+It raises an error if the file does not exist.
+</p>
+
+<h4>• Append Mode (<code>a</code>)</h4>
+<p>
+Opens a file for appending data at the end of the file
+without deleting existing content.
+</p>
+
+<hr>
+
+<h3>⚠️ Exception Handling</h3>
+<p>
+Exception handling is used to handle runtime errors gracefully.
+It prevents the program from crashing and allows custom error messages.
+</p>
+
+<hr>
+
+<h3>🏗️ Object-Oriented Programming (OOPS)</h3>
+<p>
+OOPS is a programming paradigm based on objects and classes.
+It helps in code reusability, modularity, and maintainability.
+</p>
+
+<h4>• Class & Object</h4>
+<p>
+A class is a blueprint for creating objects.
+An object is an instance of a class.
+</p>
+
+<h4>• <code>self</code> Keyword</h4>
+<p>
+The <code>self</code> keyword refers to the current object.
+It is used to access variables and methods of a class.
+</p>
+
+<h4>• Constructor</h4>
+<p>
+A constructor is a special method that is automatically executed
+when an object is created. It is used to initialize object data.
+</p>
+
+<hr>
+
+<p><b>✅ This repository covers Python concepts from basics to advanced topics with examples.</b></p>
+
+
 <h2>🎯 Purpose</h2>
 <ul>
   <li>Learn Python step-by-step</li>
